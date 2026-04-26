@@ -1,0 +1,3 @@
+// reference output for test2.c
+%a.0 : { 1 }
+%cmp : { 1 }

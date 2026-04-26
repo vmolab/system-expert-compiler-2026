@@ -1,4 +1,4 @@
-// reference output for test.c
+// reference output for test1.c
 %add1 : { 5 }
 %add : { 3 }
 %cmp : { 0 }
